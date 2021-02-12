@@ -33,10 +33,8 @@ I'm a HashiCorp Ambassador (2020).  Currently working as a Senior Developer Advo
 [<img align="left" alt="antonbabenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="View some of my talks on YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-[website]: https://www.devopsrob.com
-[twitter]: https://twitter.com/devops_rob
-[linkedin]: https://linkedin.com/in/devopsrob
-[youtube]: https://www.youtube.com/channel/UCX7LwI07jcOAi3ceiwd71fQ/
+[twitter]: https://twitter.com/robertoporfiro
+[linkedin]: https://linkedin.com/in/robertoporfiro
 
 <!--
 **robertoporfiro/robertoporfiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
