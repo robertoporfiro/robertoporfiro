@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-![alt text](git-banner.png)
-[![Twitter Follow](https://img.shields.io/twitter/follow/devops_rob?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevops_rob&screen_name=devops_rob)
-[![Website](https://img.shields.io/website?label=devopsrob.com&style=for-the-badge&url=https%3A%2F%2Fwww.devopsrob.com)](https://www.devopsrob.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/robertoporfiro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertoporfiro&screen_name=robertoporfiro)
 
 ### About me
 
-I'm a HashiCorp Ambassador (2020).  Currently working as a Senior Developer Advocate at  ![alt text](HashiCorp_Logomark_Black_RGB.png) residing in UK 🇬🇧. I'm a Frequent speaker 🗣 and a public learner 📝.
+I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer at LCG ![alt text](HashiCorp_Logomark_Black_RGB.png) residing in Lisbon - PT. 
+I'm a Frequent speaker 🗣 and a public learner 📝.
 
 ### Open source contributor
 
