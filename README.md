@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer at LCG ![alt text](HashiCorp_Logomark_Black_RGB.png) residing in Lisbon - PT. 
+I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer at LCG ![alt text](logolcg-v2.png) residing in Lisbon - PT. 
 
 I'm a Frequent speaker 🗣 and a public learner 📝.
 
