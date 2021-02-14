@@ -2,6 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/robertoporfiro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertoporfiro&screen_name=robertoporfiro)
 
+![](https://github-readme-stats.vercel.app/api?username=robertoporfiro&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoporfiro&hide=html&layout=compact)
+
 ### About me
 
 I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer at LCG ![alt text](logolcg-v2.png) residing in Lisbon - PT. 
