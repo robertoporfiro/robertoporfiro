@@ -12,12 +12,11 @@ I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer a
 ### Open source contributor
 
 - [Vault](https://github.com/hashicorp/vault)
-- [Consul](https://github.com/hashicorp/consul)
+
 
 ### Currently working on
 
-- [Target CLI](https://github.com/target-cli/target)
-- [Vault Secrets Engine Terraform Module](https://github.com/devops-rob/terraform-vault-secrets-engines)
+- [Vault Secrets Engine Terraform Module](https://github.com/robertoporfiro/terraform-vault-secrets-engines)
 - Writing a book about deploying Vault at scale
 
 ### Fun facts
