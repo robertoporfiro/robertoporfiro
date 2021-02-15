@@ -17,21 +17,19 @@ I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer a
 ### Currently working on
 
 - [Vault Secrets Engine Terraform Module](https://github.com/robertoporfiro/terraform-vault-secrets-engines)
-- Writing a book about deploying Vault at scale
+- Learning about deploying Vault at scale
 
 ### Fun facts
 
 - Music lover 🎵 🎶
 - Fast Car enthusiast 🏎
 - Foodie 🍲
-- Cognac connoisseur 🥃
 
 ### Social media
 
-[<img align="left" alt="antonbabenko.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="antonbabenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="antonbabenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="View some of my talks on YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [twitter]: https://twitter.com/robertoporfiro
 [linkedin]: https://linkedin.com/in/robertoporfiro
