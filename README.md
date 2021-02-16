@@ -32,17 +32,15 @@ I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer a
 	[<img align="left" alt="antonbabenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 	[twitter]: https://twitter.com/robertoporfiro
+	[![Twitter Follow](https://img.shields.io/twitter/follow/robertoporfiro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertoporfiro&screen_name=robertoporfiro)
 	[linkedin]: https://linkedin.com/in/robertoporfiro
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/robertoporfiro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertoporfiro&screen_name=robertoporfiro)
-
-![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
 
 
 ### :trophy: My Github Stats and new Releases
 ![](https://github-readme-stats.vercel.app/api?username=robertoporfiro&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoporfiro&hide=html&layout=compact)
-
+![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
 
 
 
