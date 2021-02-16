@@ -10,6 +10,8 @@
 
 I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer at LCG ![alt text](logolcg-v2.png) residing in Lisbon - PT. 
 
+![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
+
 ### Open source contributor
 
 - [Vault](https://github.com/hashicorp/vault)
