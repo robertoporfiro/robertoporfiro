@@ -12,34 +12,33 @@ I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer a
 
 ![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
 
-### Open source contributor
-
-- [Vault](https://github.com/hashicorp/vault)
-
-- 🔭 I’m currently working 
+- 🔭 I’m currently working on ...
 	- Microservices,
 	- Docker,
 	- Kubernetes,
 	- Azure
-  - DevOps
+  	- DevOps
 
-- [Vault Secrets Engine Terraform Module](https://github.com/robertoporfiro/terraform-vault-secrets-engines)
-- Learning about deploy Vault at scale
+- 👯 I’m looking to collaborate on ...	
+	- [Vault](https://github.com/hashicorp/vault)
+	- [Vault Secrets Engine Terraform Module](https://github.com/robertoporfiro/terraform-vault-secrets-engines)
 
-### Fun facts
+- 🌱 I’m currently learning ...	
+	- Learning about deploy Vault at scale
 
-- Music lover 🎵 🎶
-- Fast Car enthusiast 🏎
-- Foodie 🍲
+- ⚡ Fun fact: ...
 
-### Social media
+	- Music lover 🎵 🎶
+	- Fast Car enthusiast 🏎
+	- Foodie 🍲
 
+- 📫 How to reach me: ...
 
-[<img align="left" alt="antonbabenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="antonbabenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+	[<img align="left" alt="antonbabenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+	[<img align="left" alt="antonbabenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/robertoporfiro
-[linkedin]: https://linkedin.com/in/robertoporfiro
+	[twitter]: https://twitter.com/robertoporfiro
+	[linkedin]: https://linkedin.com/in/robertoporfiro
 
 <!--
 **robertoporfiro/robertoporfiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
