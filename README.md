@@ -13,11 +13,15 @@ I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer a
 
 - [Vault](https://github.com/hashicorp/vault)
 
-
-### Currently working on
+- 🔭 I’m currently working 
+	- Microservices,
+	- Docker,
+	- Kubernetes,
+	- Azure
+  - DevOps
 
 - [Vault Secrets Engine Terraform Module](https://github.com/robertoporfiro/terraform-vault-secrets-engines)
-- Learning about deploying Vault at scale
+- Learning about deploy Vault at scale
 
 ### Fun facts
 
