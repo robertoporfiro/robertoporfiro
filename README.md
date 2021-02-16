@@ -36,13 +36,15 @@ I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer a
 	[twitter]: https://twitter.com/robertoporfiro
 	[linkedin]: https://linkedin.com/in/robertoporfiro
 
+![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
+
 
 ### :trophy: My Github Stats and new Releases
 ![](https://github-readme-stats.vercel.app/api?username=robertoporfiro&show_icons=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoporfiro&hide=html&layout=compact)
 
 
-![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
+
 
 <!--
 **robertoporfiro/robertoporfiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
