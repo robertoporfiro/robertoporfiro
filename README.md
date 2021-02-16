@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Roberto Porfiro
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/robertoporfiro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertoporfiro&screen_name=robertoporfiro)
-
 ### About me
 
 I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer at LCG ![alt text](logolcg-v2.png) residing in Lisbon - PT. 
@@ -35,6 +33,8 @@ I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer a
 
 	[twitter]: https://twitter.com/robertoporfiro
 	[linkedin]: https://linkedin.com/in/robertoporfiro
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/robertoporfiro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertoporfiro&screen_name=robertoporfiro)
 
 ![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
 
