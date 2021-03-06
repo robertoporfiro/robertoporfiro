@@ -2,7 +2,8 @@
 
 ### About me
 
-I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer at LCG ![alt text](logolcg-v2.png) residing in Lisbon - PT. 
+I'm a Senior Solution Architect (2021) at LCG ![alt text](logolcg-v2.png) residing in Lisbon - PT.
+Currently working as a Senior Devops Engineer at EDP  
 
 
 
@@ -10,8 +11,10 @@ I'm a Solution Architect (2021). Currently working as a Senior Devops Engineer a
 	- Microservices,
 	- Docker,
 	- Kubernetes,
-	- Azure
-  	- DevOps
+	- Azure,
+  	- DevOps,
+  	- HashiCorp Vault,
+  	- Hashicorp Terraform
 
 - 👯 I’m looking to collaborate on ...	
 	- [Vault](https://github.com/hashicorp/vault)
