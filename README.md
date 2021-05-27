@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Roberto Porfiro
+### Hi there 👋, 
+
+I'm Roberto Porfiro
 
 ### About me
 
 I'm a Senior Solution Architect (2021) at LCG ![alt text](logolcg-v2.png) residing in Lisbon - PT.
 Currently working as a Senior Devops Engineer at EDP  
-
 
 
 - 🔭 I’m currently working on ...
