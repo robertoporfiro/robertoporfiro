@@ -9,11 +9,11 @@ Currently working as a Senior Devops Engineer at EDP
 
 
 - 🔭 I’m currently working on ...
+	- DevOps,
 	- Microservices,
 	- Docker,
 	- Kubernetes,
 	- Azure,
-  	- DevOps,
   	- HashiCorp Vault,
   	- Hashicorp Terraform
 
@@ -23,6 +23,7 @@ Currently working as a Senior Devops Engineer at EDP
 
 - 🌱 I’m currently learning ...	
 	- Learning about deploy Vault at scale
+	- Learning new alternativies to install Jenkins with HA.
 
 - ⚡ Fun fact: ...
 
