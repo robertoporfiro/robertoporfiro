@@ -14,6 +14,8 @@ Currently working as a Senior Devops Architect at EDP
 	- Docker,
 	- Kubernetes,
 	- Azure,
+	- Azure DevOps,
+	- IOT / Thingsboard,
   	- HashiCorp Vault,
   	- Hashicorp Terraform
 
