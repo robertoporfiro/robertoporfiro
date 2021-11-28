@@ -50,7 +50,8 @@ Currently working as a Senior Devops Architect at EDP
 ![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
 
 ### :Certifications
-![](https://www.credly.com/badges/0a0da145-668d-4fef-86ad-b3442d9db826/public_url)
+
+![Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/0a0da145-668d-4fef-86ad-b3442d9db826/public_url)
 
 
 
