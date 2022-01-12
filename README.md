@@ -16,6 +16,9 @@ Currently working as a Senior Devops Architect at EDP
 	- Azure,
 	- Azure DevOps,
 	- IOT / Thingsboard,
+	- Hyperledger Fabric
+	- Blockchain
+	- Quarkus
   	- HashiCorp Vault,
   	- Hashicorp Terraform
 
