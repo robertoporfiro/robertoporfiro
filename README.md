@@ -4,21 +4,24 @@
 
 ### About me
 
-I'm a Senior Solution Architect (2021) at LCG ![alt text](logolcg-v2.png) residing in Lisbon - PT.
-Currently working as a Senior Devops Architect at EDP  
+I'm a Senior Solution Architect (2022) at IntellectEU ![alt text](logolcg-v2.png) residing in Lisbon - PT.
+
 
 
 - 🔭 I’m currently working on ...
+	- Daml,
+	- Smart Contracts,
 	- DevOps,
 	- Microservices,
 	- Docker,
 	- Kubernetes,
 	- Azure,
+	- AWS,
 	- Azure DevOps,
 	- IOT / Thingsboard,
-	- Hyperledger Fabric
-	- Blockchain
-	- Quarkus
+	- Hyperledger Fabric,
+	- Blockchain,
+	- Quarkus,
   	- HashiCorp Vault,
   	- Hashicorp Terraform
 
@@ -27,8 +30,11 @@ Currently working as a Senior Devops Architect at EDP
 	- [Vault Secrets Engine Terraform Module](https://github.com/robertoporfiro/terraform-vault-secrets-engines)
 
 - 🌱 I’m currently learning ...	
-	- Learning about deploy Vault at scale
-	- Learning new alternativies to install Jenkins with HA.
+	- about Smart Contracts
+	- about Daml 
+	- about Private Market
+	- about deploy Vault at scale
+	- and new alternativies to install Jenkins with HA.
 
 - ⚡ Fun fact: ...
 
