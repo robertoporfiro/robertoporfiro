@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm a Senior Solution Architect (2022) at IntellectEU ![alt text](intellecteu.png) residing in Lisbon - PT.
+I'm a Senior Solution Architect (2022) at IntellectEU residing in Lisbon - PT.
 
 
 
