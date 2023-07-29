@@ -12,15 +12,15 @@ I'm a Senior Solution Architect (2023) at IntellectEU residing in Lisbon - PT.
 	- Hyperledger Fabric,
 	- Blockchain,
 	- Smart Contracts,
-	- DevOps,
 	- Microservices,
+	- Spring Boot,
+	- Spring Cloud	 
+   	- Quarkus,
 	- Docker,
 	- Kubernetes,
 	- Azure,
 	- AWS,
-	- Azure DevOps,
 	- IOT / Thingsboard,
-	- Quarkus,
   	- HashiCorp Vault,
   	- Hashicorp Terraform
 
@@ -30,14 +30,13 @@ I'm a Senior Solution Architect (2023) at IntellectEU residing in Lisbon - PT.
 
 - 🌱 I’m currently learning ...	
 	- about Smart Contracts
-	- about Daml 
-	- about deploy Canton at scale
-	- about Private Market
-	- about deploy Vault at scale
-	- and new alternativies to install Jenkins with HA.
+	- about Daml - Digital Asset	
+	- about Canton - Digital Asset	
+	- about deploying Canton at scale
+	- about deploying Vault at scale - HA
+	- and new alternatives to install Jenkins with HA.
 
 - ⚡ Fun fact: ...
-
 	- Music lover 🎵 🎶
 	- Fast Car enthusiast 🏎
 	- Foodie 🍲
