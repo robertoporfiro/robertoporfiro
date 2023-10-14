@@ -23,16 +23,12 @@ I'm a Senior Solution Architect (2023) at IntellectEU residing in Lisbon - PT.
   	- HashiCorp Vault,
   	- Hashicorp Terraform
 
-- 👯 I’m looking to collaborate on ...	
-	- [Vault](https://github.com/hashicorp/vault)
-
 - 🌱 I’m currently learning ...	
 	- about Smart Contracts
 	- about Daml - Digital Asset	
 	- about Canton - Digital Asset	
 	- about deploying Canton at scale
 	- about deploying Vault at scale - HA
-	- and new alternatives to install Jenkins with HA.
 
 - ⚡ Fun fact: ...
 	- Music lover 🎵 🎶
