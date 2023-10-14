@@ -11,6 +11,7 @@ I'm a Senior Solution Architect (2023) at IntellectEU residing in Lisbon - PT.
 	- Hyperledger Fabric,
 	- Blockchain,
 	- Smart Contracts,
+	- Web3,
 	- Microservices,
 	- Spring Boot,
 	- Spring Cloud	 
