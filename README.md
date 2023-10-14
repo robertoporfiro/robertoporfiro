@@ -7,15 +7,13 @@
 I'm a Senior Solution Architect (2023) at IntellectEU residing in Lisbon - PT.
 
 - 🔭 I’m currently working on ...
-	- Daml,
-	- Canton,
+	- Digital Asset products - Daml and Canton Network
 	- Hyperledger Fabric,
 	- Blockchain,
 	- Smart Contracts,
 	- Microservices,
 	- Spring Boot,
 	- Spring Cloud	 
-   	- Quarkus,
 	- Docker,
 	- Kubernetes,
 	- Azure,
@@ -26,7 +24,6 @@ I'm a Senior Solution Architect (2023) at IntellectEU residing in Lisbon - PT.
 
 - 👯 I’m looking to collaborate on ...	
 	- [Vault](https://github.com/hashicorp/vault)
-	- [Vault Secrets Engine Terraform Module](https://github.com/robertoporfiro/terraform-vault-secrets-engines)
 
 - 🌱 I’m currently learning ...	
 	- about Smart Contracts
