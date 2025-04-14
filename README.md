@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm a Senior Solution Architect (2023) at IntellectEU residing in Lisbon - PT.
+I'm a Staff Solution Architect (2025) at IntellectEU residing in Lisbon - PT.
 
 - 🔭 I’m currently working on ...
 	- Digital Asset products - Daml and Canton Network
