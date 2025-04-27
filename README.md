@@ -20,9 +20,9 @@
 ---
 
 ### 🚀 Currently Orbiting Around
-- Smart Contracts (Advanced DAML 🚀)
-- Blockchain Networks scaling (Canton HA setups ⚙️)
-- Secrets management (Vault wizardry 🔐)
+- Smart Contracts and Blockchain Solutions 🤖
+- Scalable Blockchain Networks (HA setups) 🌐
+- Secrets Management and Secure Infrastructure 🔐
 
 ---
 
