@@ -13,7 +13,9 @@
 - 🛠 Building distributed solutions with Daml, Canton, and Hyperledger.
 - ☁️ Cloud journeys across Azure and AWS.
 - 📦 Lover of Docker, Kubernetes, and microservice architectures.
-- 🧠 Always learning, always creating.
+- 🤖 Exploring Artificial Intelligence and integrating AI models into solutions.
+- 🧠 - 🧠 Embracing Model-Centric Programming (MCP) practices to enhance intelligent system development.
+- 🔥 Always learning, always creating.
 
 ---
 
@@ -27,7 +29,7 @@
 ### 🎨 Little Things That Fuel My Fire
 - 🎶 Music on repeat.
 - 🚗 Horsepower and torque addict.
-- 🍣 Sushi hunter.
+- 🥩 Barbecue enthusiast.
 
 ---
 
