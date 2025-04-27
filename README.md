@@ -10,8 +10,8 @@
 ---
 
 ### 🧩 About Me
-- 🛠 Building distributed solutions with Daml, Canton, and Hyperledger.
-- ☁️ Cloud journeys across Azure and AWS.
+- 🛠 Building distributed solutions with Daml Canton, and Hyperledger.
+- ☁️ Cloud journeys across Azure, AWS and GCP.
 - 📦 Lover of Docker, Kubernetes, and microservice architectures.
 - 🤖 Exploring Artificial Intelligence and integrating AI models into solutions.
 - 🧠 Embracing Model-Centric Programming (MCP) practices to enhance intelligent system development.
