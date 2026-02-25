@@ -2,7 +2,7 @@
 
 **Strategic architect with 20+ years of experience in distributed systems, cloud-native environments, and decentralized technologies.**
 
-I specialize in the end-to-end journey of enterprise digital products translating abstract business goals into scalable, high-integrity architectures. My current focus is on **AI-augmented delivery**, where I leverage large language models and automated workflows to accelerate the move from discovery to market-ready MVPs.
+I specialize in the e2e journey of enterprise digital products translating abstract business goals into scalable, high integrity architectures. My current focus is on **AI-augmented delivery**, where I leverage large language models and automated workflows to accelerate the move from discovery to market ready MVPs.
 
 ---
 
