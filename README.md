@@ -1,72 +1,31 @@
-### Hi there 👋, 
+# Roberto Porfiro | Staff Solution Architect
 
-### I'm Roberto Porfiro
+**Strategic architect with 20+ years of experience in distributed systems, cloud-native environments, and decentralized technologies.**
 
-### About me
+I specialize in the end-to-end journey of enterprise digital products translating abstract business goals into scalable, high-integrity architectures. My current focus is on **AI-augmented delivery**, where I leverage large language models and automated workflows to accelerate the move from discovery to market-ready MVPs.
 
-I'm a Staff Solution Architect (2025) at IntellectEU residing in Lisbon - PT.
+---
 
-- 🔭 I’m currently working on ...
-	- Digital Asset products - Daml and Canton Network
-	- Hyperledger Fabric,
-	- Blockchain,
-	- Smart Contracts,
-	- Web3,
-	- Microservices,
-	- Spring Boot,
-	- Spring Cloud	 
-	- Docker,
-	- Kubernetes,
-	- Azure,
-	- AWS,
-	- IOT / Thingsboard,
-  	- HashiCorp Vault,
-  	- Hashicorp Terraform
+### 🔭 Current Focus
+- **Trust Architectures:** Designing privacy first decentralized networks using **Canton**, **Hyperledger Fabric**, and **Corda**.
+- **AI-Augmented SDLC:** Integrating AI into the architectural lifecycle to reduce friction, automate documentation, and shorten feedback loops.
+- **Enterprise IAM:** Building secure, compliant identity frameworks using **OAuth2**, **OpenID Connect**, and **HashiCorp Vault**.
 
-- 🌱 I’m currently learning ...	
-	- about Smart Contracts
-	- about Daml - Digital Asset	
-	- about Canton - Digital Asset	
-	- about deploying Canton at scale
-	- about deploying Vault at scale - HA
+### 🛠️ Strategic Tech Stack
+- **Languages:** Java (Spring Boot/Cloud), Go, SQL.
+- **DLT & Blockchain:** Canton, Hyperledger Fabric, Corda.
+- **Infrastructure:** Kubernetes, Docker, Terraform, AWS, Azure, GCP.
+- **AI & Automation:** LLM assisted system design, CI/CD optimization.
 
-- ⚡ Fun fact: ...
-	- Music lover 🎵 🎶
-	- Fast Car enthusiast 🏎
-	- Foodie 🍲
+### 📈 Philosophy
+> "Great architecture is not just about technology; it’s about clarity, alignment, and execution."
 
-- 📫 How to reach me: ...
+I believe a Staff Architect’s value is measured by their ability to influence technical direction across teams and create architectural foundations that allow organizations to scale without sacrificing resilience.
 
-	[<img align="left" alt="antonbabenko | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-	[<img align="left" alt="antonbabenko | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+---
 
-	[twitter]: https://twitter.com/robertoporfiro
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robertoporfiro/)
+[![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=github&logoColor=white)](https://robertoporfiro.github.io/)
 
-	[linkedin]: https://linkedin.com/in/robertoporfiro
-
-	[![Twitter Follow](https://img.shields.io/twitter/follow/robertoporfiro?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertoporfiro&screen_name=robertoporfiro)
-
-### :trophy: My Github Stats and new Releases
-![](https://github-readme-stats.vercel.app/api?username=robertoporfiro&show_icons=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertoporfiro&hide=html&layout=compact)
-![](https://komarev.com/ghpvc/?username=robertoporfiro&label=PROFILE+VIEWS)
-
-### :Certifications
-
-![Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/0a0da145-668d-4fef-86ad-b3442d9db826/public_url)
-
-
-<!--
-**robertoporfiro/robertoporfiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
